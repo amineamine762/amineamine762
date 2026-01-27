@@ -1,7 +1,6 @@
 <h1 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="8" style="color:orange;">
-    👋 Hello, I’m Amine El-Baydaouy — Data & AI Engineer
-  </marquee>
+  <span style="color:#00C8FF">👋 Hello, I’m Amine El-Baydaouy</span><br>
+  <span style="color:#FF5733">Data & AI Engineer 🚀</span>
 </h1>
 <p align="center">
   Passionate about <strong>AI</strong>, <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Problem Solving</strong>.
