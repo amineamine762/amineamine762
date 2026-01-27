@@ -21,8 +21,8 @@
 ### 📫 Contact
 
 - LinkedIn: [Amine Elbaydaouy](https://www.linkedin.com/in/aminelbaydaouy/)  
-- Email: [amine@example.com](mailto:amine@example.com)  
-- Portfolio: *Portfolio in development*
+- Email: elbidaouiamine762@gmail.com
+- Portfolio: *in progress*
 
 ---
 
