@@ -64,9 +64,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amineamine762&show_icons=true&theme=radical)
+![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=amineamine762&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amineamine762&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amineamine762&layout=compact&theme=radical&hide_border=true)
+
 
 <!--
 **amineamine762/amineamine762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
