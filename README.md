@@ -67,8 +67,7 @@
 ![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=amineamine762&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amineamine762&layout=compact&theme=radical&hide_border=true)
-test image
-![test](https://github-readme-stats.vercel.app/api?username=amineamine762)
+
 
 
 
